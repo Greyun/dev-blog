@@ -10,4 +10,4 @@ series:
 
 ## Hello World Blog!
 
-이 블로그는 gatsby-starter-hoodie 로 작성되었습니다.
+이 블로그는 gatsby-starter-hoodie 로 작성되었습니다!
